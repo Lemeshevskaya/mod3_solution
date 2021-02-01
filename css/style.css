@@ -1,0 +1,10 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #a6bafc;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+/*header*/
+.navbar-nav {
+    background-color: cadetblue;
+}
